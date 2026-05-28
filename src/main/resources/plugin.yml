@@ -1,0 +1,15 @@
+name: mGkits
+version: 0.0.2
+author: santiago_cr
+main: me.santiago.kits.Kits
+commands:
+  gkit:
+    aliases: [gkits]
+  akit:
+    aliases: [akits, adminkit, adminkits]
+  customenchant:
+    aliases: [customsenchants]
+  bookenchant:
+    aliases: [bookenchants]
+  ce:
+    aliases: [customshop]
